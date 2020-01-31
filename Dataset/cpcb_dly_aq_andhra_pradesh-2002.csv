@@ -1,0 +1,115 @@
+Stn Code,Sampling Date,State,City/Town/Village/Area,Agency,Type of Location,SO2,NO2,RSPM/PM10,SPM
+95,January - M012002,Andhra Pradesh,Hyderabad,Andhra Pradesh  Pollution Control Board,NA,2,51.2,NA,130
+95,February - M022002,Andhra Pradesh,Hyderabad,Andhra Pradesh  Pollution Control Board,NA,2.3,65.5,NA,192
+95,March - M032002,Andhra Pradesh,Hyderabad,Andhra Pradesh  Pollution Control Board,NA,5.6,39.6,NA,241
+95,April - M042002,Andhra Pradesh,Hyderabad,Andhra Pradesh  Pollution Control Board,NA,8.8,26.2,NA,173
+95,May - M052002,Andhra Pradesh,Hyderabad,Andhra Pradesh  Pollution Control Board,NA,6.4,24.5,NA,248
+95,June - M062002,Andhra Pradesh,Hyderabad,Andhra Pradesh  Pollution Control Board,NA,7.1,18,NA,161
+95,July - M072002,Andhra Pradesh,Hyderabad,Andhra Pradesh  Pollution Control Board,NA,4.8,8.8,NA,157
+95,August - M082002,Andhra Pradesh,Hyderabad,Andhra Pradesh  Pollution Control Board,NA,8.6,17.8,NA,148
+95,September - M092002,Andhra Pradesh,Hyderabad,Andhra Pradesh  Pollution Control Board,NA,7.9,35.3,NA,160
+95,October - M102002,Andhra Pradesh,Hyderabad,Andhra Pradesh  Pollution Control Board,NA,5.5,42.3,NA,151
+95,November - M112002,Andhra Pradesh,Hyderabad,Andhra Pradesh  Pollution Control Board,NA,7.6,52.5,NA,178
+95,December - M122002,Andhra Pradesh,Hyderabad,Andhra Pradesh  Pollution Control Board,NA,8.1,47.4,NA,230
+95,Annual - M132002,Andhra Pradesh,Hyderabad,Andhra Pradesh  Pollution Control Board,NA,6.3,35.1,NA,181
+150,January - M012002,Andhra Pradesh,Hyderabad,NA,"Residential, Rural and other Areas",7.9,15.5,NA,101
+150,February - M022002,Andhra Pradesh,Hyderabad,NA,"Residential, Rural and other Areas",7.4,13.6,NA,72
+150,March - M032002,Andhra Pradesh,Hyderabad,NA,"Residential, Rural and other Areas",7.2,14.4,NA,97
+150,April - M042002,Andhra Pradesh,Hyderabad,NA,"Residential, Rural and other Areas",8.4,15.9,NA,80
+150,May - M052002,Andhra Pradesh,Hyderabad,NA,"Residential, Rural and other Areas",6.7,20.2,NA,95
+150,June - M062002,Andhra Pradesh,Hyderabad,NA,"Residential, Rural and other Areas",7.3,17.8,NA,66
+150,July - M072002,Andhra Pradesh,Hyderabad,NA,"Residential, Rural and other Areas",6.1,24.8,NA,87
+150,August - M082002,Andhra Pradesh,Hyderabad,NA,"Residential, Rural and other Areas",6.1,21.7,NA,51
+150,September - M092002,Andhra Pradesh,Hyderabad,NA,"Residential, Rural and other Areas",8.9,28.3,NA,86
+150,October - M102002,Andhra Pradesh,Hyderabad,NA,"Residential, Rural and other Areas",6.9,20.6,NA,88
+150,November - M112002,Andhra Pradesh,Hyderabad,NA,"Residential, Rural and other Areas",28.6,21.1,NA,113
+150,December - M122002,Andhra Pradesh,Hyderabad,NA,"Residential, Rural and other Areas",13.9,22.7,NA,125
+150,Annual - M132002,Andhra Pradesh,Hyderabad,NA,"Residential, Rural and other Areas",9.6,19.8,NA,89
+151,January - M012002,Andhra Pradesh,Hyderabad,NA,Industrial Area,12.6,13.4,NA,78
+151,February - M022002,Andhra Pradesh,Hyderabad,NA,Industrial Area,8.1,12,NA,74
+151,March - M032002,Andhra Pradesh,Hyderabad,NA,Industrial Area,8,15.5,NA,90
+151,April - M042002,Andhra Pradesh,Hyderabad,NA,Industrial Area,8,9.6,NA,89
+151,May - M052002,Andhra Pradesh,Hyderabad,NA,Industrial Area,8.2,12.5,NA,72
+151,June - M062002,Andhra Pradesh,Hyderabad,NA,Industrial Area,6.1,11.5,NA,60
+151,July - M072002,Andhra Pradesh,Hyderabad,NA,Industrial Area,7,17,NA,58
+151,August - M082002,Andhra Pradesh,Hyderabad,NA,Industrial Area,7,15.8,NA,46
+151,September - M092002,Andhra Pradesh,Hyderabad,NA,Industrial Area,8.7,18.5,NA,67
+151,October - M102002,Andhra Pradesh,Hyderabad,NA,Industrial Area,7.3,18.7,NA,76
+151,November - M112002,Andhra Pradesh,Hyderabad,NA,Industrial Area,18.3,22.5,NA,82
+151,December - M122002,Andhra Pradesh,Hyderabad,NA,Industrial Area,9.3,25.8,NA,89
+151,Annual - M132002,Andhra Pradesh,Hyderabad,NA,Industrial Area,9.1,16,NA,73
+152,January - M012002,Andhra Pradesh,Hyderabad,NA,"Residential, Rural and other Areas",19.1,42.3,NA,124
+152,February - M022002,Andhra Pradesh,Hyderabad,NA,"Residential, Rural and other Areas",13.4,34.5,NA,109
+152,March - M032002,Andhra Pradesh,Hyderabad,NA,"Residential, Rural and other Areas",8.3,41.4,NA,127
+152,April - M042002,Andhra Pradesh,Hyderabad,NA,"Residential, Rural and other Areas",7.3,32.1,NA,123
+152,May - M052002,Andhra Pradesh,Hyderabad,NA,"Residential, Rural and other Areas",7.3,30.8,NA,98
+152,June - M062002,Andhra Pradesh,Hyderabad,NA,"Residential, Rural and other Areas",6.5,33.4,NA,106
+152,July - M072002,Andhra Pradesh,Hyderabad,NA,"Residential, Rural and other Areas",6.3,34,NA,89
+152,August - M082002,Andhra Pradesh,Hyderabad,NA,"Residential, Rural and other Areas",6,35.6,NA,79
+152,September - M092002,Andhra Pradesh,Hyderabad,NA,"Residential, Rural and other Areas",10.3,48.3,NA,94
+152,October - M102002,Andhra Pradesh,Hyderabad,NA,"Residential, Rural and other Areas",7.2,44.8,NA,125
+152,November - M112002,Andhra Pradesh,Hyderabad,NA,"Residential, Rural and other Areas",25,49.3,NA,149
+152,December - M122002,Andhra Pradesh,Hyderabad,NA,"Residential, Rural and other Areas",14.4,48,NA,161
+152,Annual - M132002,Andhra Pradesh,Hyderabad,NA,"Residential, Rural and other Areas",10.9,39.3,NA,114
+202,January - M012002,Andhra Pradesh,Hyderabad,Andhra Pradesh  Pollution Control Board,NA,2,19.7,NA,81
+202,February - M022002,Andhra Pradesh,Hyderabad,Andhra Pradesh  Pollution Control Board,NA,2,21.1,NA,114
+202,March - M032002,Andhra Pradesh,Hyderabad,Andhra Pradesh  Pollution Control Board,NA,2.7,22.4,NA,139
+202,April - M042002,Andhra Pradesh,Hyderabad,Andhra Pradesh  Pollution Control Board,NA,3.3,13.5,NA,128
+202,May - M052002,Andhra Pradesh,Hyderabad,Andhra Pradesh  Pollution Control Board,NA,3,9.8,NA,140
+202,June - M062002,Andhra Pradesh,Hyderabad,Andhra Pradesh  Pollution Control Board,NA,3.5,7.5,NA,56
+202,July - M072002,Andhra Pradesh,Hyderabad,Andhra Pradesh  Pollution Control Board,NA,4.6,5.2,NA,72
+202,August - M082002,Andhra Pradesh,Hyderabad,Andhra Pradesh  Pollution Control Board,NA,2.2,6.7,NA,60
+202,September - M092002,Andhra Pradesh,Hyderabad,Andhra Pradesh  Pollution Control Board,NA,2.5,5.3,NA,72
+202,October - M102002,Andhra Pradesh,Hyderabad,Andhra Pradesh  Pollution Control Board,NA,4.2,17.1,NA,87
+202,November - M112002,Andhra Pradesh,Hyderabad,Andhra Pradesh  Pollution Control Board,NA,3.3,11.2,NA,103
+202,December - M122002,Andhra Pradesh,Hyderabad,Andhra Pradesh  Pollution Control Board,NA,4,12,NA,128
+202,Annual - M132002,Andhra Pradesh,Hyderabad,Andhra Pradesh  Pollution Control Board,NA,3.1,12.6,NA,99
+203,January - M012002,Andhra Pradesh,Hyderabad,Andhra Pradesh  Pollution Control Board,NA,2,41.8,NA,149
+203,February - M022002,Andhra Pradesh,Hyderabad,Andhra Pradesh  Pollution Control Board,NA,2,46.9,NA,130
+203,March - M032002,Andhra Pradesh,Hyderabad,Andhra Pradesh  Pollution Control Board,NA,4,31.8,NA,181
+203,April - M042002,Andhra Pradesh,Hyderabad,Andhra Pradesh  Pollution Control Board,NA,5.7,31.4,NA,229
+203,May - M052002,Andhra Pradesh,Hyderabad,Andhra Pradesh  Pollution Control Board,NA,2.8,8.8,NA,262
+203,June - M062002,Andhra Pradesh,Hyderabad,Andhra Pradesh  Pollution Control Board,NA,5,24.4,NA,191
+203,July - M072002,Andhra Pradesh,Hyderabad,Andhra Pradesh  Pollution Control Board,NA,5.5,13.6,NA,108
+203,August - M082002,Andhra Pradesh,Hyderabad,Andhra Pradesh  Pollution Control Board,NA,5.8,20.8,NA,114
+203,September - M092002,Andhra Pradesh,Hyderabad,Andhra Pradesh  Pollution Control Board,NA,5.9,29.9,NA,135
+203,October - M102002,Andhra Pradesh,Hyderabad,Andhra Pradesh  Pollution Control Board,NA,4.7,34.4,NA,139
+203,November - M112002,Andhra Pradesh,Hyderabad,Andhra Pradesh  Pollution Control Board,NA,4.3,41.5,NA,162
+203,December - M122002,Andhra Pradesh,Hyderabad,Andhra Pradesh  Pollution Control Board,NA,6.9,36.1,NA,189
+203,Annual - M132002,Andhra Pradesh,Hyderabad,Andhra Pradesh  Pollution Control Board,NA,4.6,30,NA,166
+232,January - M012002,Andhra Pradesh,Vishakhapatnam,Andhra Pradesh  Pollution Control Board,NA,6.5,21.7,NA,8
+232,February - M022002,Andhra Pradesh,Vishakhapatnam,Andhra Pradesh  Pollution Control Board,NA,6.9,27.1,NA,8
+232,March - M032002,Andhra Pradesh,Vishakhapatnam,Andhra Pradesh  Pollution Control Board,NA,13.2,25.4,NA,8
+232,April - M042002,Andhra Pradesh,Vishakhapatnam,Andhra Pradesh  Pollution Control Board,NA,20.1,34.4,NA,8
+232,May - M052002,Andhra Pradesh,Vishakhapatnam,Andhra Pradesh  Pollution Control Board,NA,7.7,29.2,NA,17
+232,June - M062002,Andhra Pradesh,Vishakhapatnam,Andhra Pradesh  Pollution Control Board,NA,8.9,30.7,NA,21
+232,July - M072002,Andhra Pradesh,Vishakhapatnam,Andhra Pradesh  Pollution Control Board,NA,13.1,19,NA,8
+232,August - M082002,Andhra Pradesh,Vishakhapatnam,Andhra Pradesh  Pollution Control Board,NA,4.5,17.4,NA,8
+232,September - M092002,Andhra Pradesh,Vishakhapatnam,Andhra Pradesh  Pollution Control Board,NA,4.4,18.8,NA,8
+232,October - M102002,Andhra Pradesh,Vishakhapatnam,Andhra Pradesh  Pollution Control Board,NA,2.7,25,NA,8
+232,December - M122002,Andhra Pradesh,Vishakhapatnam,Andhra Pradesh  Pollution Control Board,NA,6.5,24.1,NA,8
+232,Annual - M132002,Andhra Pradesh,Vishakhapatnam,Andhra Pradesh  Pollution Control Board,NA,8.1,24.3,NA,10
+233,January - M012002,Andhra Pradesh,Vishakhapatnam,Andhra Pradesh  Pollution Control Board,NA,6,25.6,NA,8
+233,February - M022002,Andhra Pradesh,Vishakhapatnam,Andhra Pradesh  Pollution Control Board,NA,8.1,31.2,NA,8
+233,March - M032002,Andhra Pradesh,Vishakhapatnam,Andhra Pradesh  Pollution Control Board,NA,13,24.4,NA,25
+233,April - M042002,Andhra Pradesh,Vishakhapatnam,Andhra Pradesh  Pollution Control Board,NA,16.5,29.7,NA,8
+233,May - M052002,Andhra Pradesh,Vishakhapatnam,Andhra Pradesh  Pollution Control Board,NA,5,24.1,NA,8
+233,June - M062002,Andhra Pradesh,Vishakhapatnam,Andhra Pradesh  Pollution Control Board,NA,5.8,29.8,NA,8
+233,July - M072002,Andhra Pradesh,Vishakhapatnam,Andhra Pradesh  Pollution Control Board,NA,5.5,13.8,NA,20
+233,August - M082002,Andhra Pradesh,Vishakhapatnam,Andhra Pradesh  Pollution Control Board,NA,3.6,12.6,NA,8
+233,September - M092002,Andhra Pradesh,Vishakhapatnam,Andhra Pradesh  Pollution Control Board,NA,2.8,18.7,NA,8
+233,October - M102002,Andhra Pradesh,Vishakhapatnam,Andhra Pradesh  Pollution Control Board,NA,2.4,15.4,NA,8
+233,December - M122002,Andhra Pradesh,Vishakhapatnam,Andhra Pradesh  Pollution Control Board,NA,4.4,13,NA,8
+233,Annual - M132002,Andhra Pradesh,Vishakhapatnam,Andhra Pradesh  Pollution Control Board,NA,6.7,21.7,NA,11
+234,January - M012002,Andhra Pradesh,Vishakhapatnam,Andhra Pradesh  Pollution Control Board,NA,5.7,24.9,NA,29
+234,February - M022002,Andhra Pradesh,Vishakhapatnam,Andhra Pradesh  Pollution Control Board,NA,9,32.7,NA,8
+234,March - M032002,Andhra Pradesh,Vishakhapatnam,Andhra Pradesh  Pollution Control Board,NA,15.2,27.5,NA,17
+234,April - M042002,Andhra Pradesh,Vishakhapatnam,Andhra Pradesh  Pollution Control Board,NA,18.8,31.6,NA,8
+234,May - M052002,Andhra Pradesh,Vishakhapatnam,Andhra Pradesh  Pollution Control Board,NA,6.7,27.4,NA,8
+234,June - M062002,Andhra Pradesh,Vishakhapatnam,Andhra Pradesh  Pollution Control Board,NA,12.2,19.5,NA,8
+234,July - M072002,Andhra Pradesh,Vishakhapatnam,Andhra Pradesh  Pollution Control Board,NA,10,20.1,NA,8
+234,August - M082002,Andhra Pradesh,Vishakhapatnam,Andhra Pradesh  Pollution Control Board,NA,4.5,17.6,NA,15
+234,September - M092002,Andhra Pradesh,Vishakhapatnam,Andhra Pradesh  Pollution Control Board,NA,5,23.8,NA,8
+234,October - M102002,Andhra Pradesh,Vishakhapatnam,Andhra Pradesh  Pollution Control Board,NA,3.8,17.4,NA,8
+234,December - M122002,Andhra Pradesh,Vishakhapatnam,Andhra Pradesh  Pollution Control Board,NA,8,23,NA,8
+234,Annual - M132002,Andhra Pradesh,Vishakhapatnam,Andhra Pradesh  Pollution Control Board,NA,9.1,24.2,NA,11

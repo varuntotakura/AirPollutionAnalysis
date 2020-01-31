@@ -1,0 +1,120 @@
+Stn Code,Sampling Date,State,City/Town/Village/Area,Agency,Type of Location,SO2,NO2,RSPM/PM10,SPM
+159,January - M012000,Tamil Nadu,Madras,NA,"Residential, Rural and other Areas",7.1,20.4,NA,132
+160,January - M012000,Tamil Nadu,Madras,NA,"Residential, Rural and other Areas",8.3,17.1,NA,96
+161,January - M012000,Tamil Nadu,Madras,NA,Industrial Area,8.1,11.4,NA,108
+38,January - M012000,Tamil Nadu,Madras,Tamil Nadu Pollution Control Board,Industrial Area,6.6,4,NA,92
+71,January - M012000,Tamil Nadu,Madras,Tamil Nadu Pollution Control Board,Industrial Area,8.2,4.6,NA,128
+72,January - M012000,Tamil Nadu,Madras,Tamil Nadu Pollution Control Board,Industrial Area,7.8,8.8,NA,92
+206,January - M012000,Tamil Nadu,Tuticorin,Tamil Nadu Pollution Control Board,NA,NA,19.9,NA,68
+237,January - M012000,Tamil Nadu,Coimbatore,Tamil Nadu Pollution Control Board,NA,7.8,41.6,NA,65
+238,January - M012000,Tamil Nadu,Coimbatore,Tamil Nadu Pollution Control Board,NA,5.4,33.6,NA,46
+240,January - M012000,Tamil Nadu,Tuticorin,Tamil Nadu Pollution Control Board,NA,7.5,24.1,NA,28
+260,January - M012000,Tamil Nadu,Coimbatore,Tamilnadu State Pollution Control Board,"Residential, Rural and other Areas",1.7,17.8,NA,43
+159,February - M022000,Tamil Nadu,Madras,NA,"Residential, Rural and other Areas",6,12.8,NA,80
+160,February - M022000,Tamil Nadu,Madras,NA,"Residential, Rural and other Areas",6,9.4,NA,73
+161,February - M022000,Tamil Nadu,Madras,NA,Industrial Area,6.3,9.1,NA,106
+38,February - M022000,Tamil Nadu,Madras,Tamil Nadu Pollution Control Board,Industrial Area,35.7,6,NA,112
+71,February - M022000,Tamil Nadu,Madras,Tamil Nadu Pollution Control Board,Industrial Area,25.3,6,NA,89
+72,February - M022000,Tamil Nadu,Madras,Tamil Nadu Pollution Control Board,Industrial Area,7.7,7.1,NA,49
+206,February - M022000,Tamil Nadu,Tuticorin,Tamil Nadu Pollution Control Board,NA,12.1,32.6,NA,70
+239,February - M022000,Tamil Nadu,Tuticorin,Tamil Nadu Pollution Control Board,NA,14.4,34.3,NA,46
+240,February - M022000,Tamil Nadu,Tuticorin,Tamil Nadu Pollution Control Board,NA,16.9,35.5,NA,32
+306,February - M022000,Tamil Nadu,Madurai,Tamilnadu State Pollution Control Board,"Residential, Rural and other Areas",4.2,21.7,NA,73
+307,February - M022000,Tamil Nadu,Madurai,Tamilnadu State Pollution Control Board,Industrial Area,2.1,25.9,NA,122
+308,February - M022000,Tamil Nadu,Madurai,Tamilnadu State Pollution Control Board,"Residential, Rural and other Areas",5.1,47.6,NA,198
+159,March - M032000,Tamil Nadu,Madras,NA,"Residential, Rural and other Areas",6.6,10.3,NA,108
+160,March - M032000,Tamil Nadu,Madras,NA,"Residential, Rural and other Areas",6.2,9.4,NA,30
+161,March - M032000,Tamil Nadu,Madras,NA,Industrial Area,6.5,11.9,NA,61
+206,March - M032000,Tamil Nadu,Tuticorin,Tamil Nadu Pollution Control Board,NA,12.8,36,NA,74
+239,March - M032000,Tamil Nadu,Tuticorin,Tamil Nadu Pollution Control Board,NA,15.1,30,NA,44
+240,March - M032000,Tamil Nadu,Tuticorin,Tamil Nadu Pollution Control Board,NA,14.1,30.9,NA,49
+306,March - M032000,Tamil Nadu,Madurai,Tamilnadu State Pollution Control Board,"Residential, Rural and other Areas",2.3,21.2,NA,113
+307,March - M032000,Tamil Nadu,Madurai,Tamilnadu State Pollution Control Board,Industrial Area,2.7,38,NA,123
+308,March - M032000,Tamil Nadu,Madurai,Tamilnadu State Pollution Control Board,"Residential, Rural and other Areas",2.7,29.6,NA,235
+309,March - M032000,Tamil Nadu,Salem,Tamilnadu State Pollution Control Board,"Residential, Rural and other Areas",4.5,32.5,NA,98
+159,April - M042000,Tamil Nadu,Madras,NA,"Residential, Rural and other Areas",6,6.5,NA,130
+160,April - M042000,Tamil Nadu,Madras,NA,"Residential, Rural and other Areas",6.2,8.2,NA,69
+161,April - M042000,Tamil Nadu,Madras,NA,Industrial Area,7.8,10.9,NA,61
+38,April - M042000,Tamil Nadu,Madras,Tamil Nadu Pollution Control Board,Industrial Area,14.4,9.9,NA,97
+71,April - M042000,Tamil Nadu,Madras,Tamil Nadu Pollution Control Board,Industrial Area,18.1,10.5,NA,103
+72,April - M042000,Tamil Nadu,Madras,Tamil Nadu Pollution Control Board,Industrial Area,13.3,11.2,NA,50
+206,April - M042000,Tamil Nadu,Tuticorin,Tamil Nadu Pollution Control Board,NA,9.5,33.7,NA,70
+237,April - M042000,Tamil Nadu,Coimbatore,Tamil Nadu Pollution Control Board,NA,3.7,39.7,NA,45
+238,April - M042000,Tamil Nadu,Coimbatore,Tamil Nadu Pollution Control Board,NA,4.1,31.7,NA,39
+239,April - M042000,Tamil Nadu,Tuticorin,Tamil Nadu Pollution Control Board,NA,12.8,28,NA,53
+240,April - M042000,Tamil Nadu,Tuticorin,Tamil Nadu Pollution Control Board,NA,15.9,24.5,NA,48
+260,April - M042000,Tamil Nadu,Coimbatore,Tamilnadu State Pollution Control Board,"Residential, Rural and other Areas",1.9,25.4,NA,27
+306,April - M042000,Tamil Nadu,Madurai,Tamilnadu State Pollution Control Board,"Residential, Rural and other Areas",3.3,29.3,NA,115
+307,April - M042000,Tamil Nadu,Madurai,Tamilnadu State Pollution Control Board,Industrial Area,5.9,43.6,NA,140
+308,April - M042000,Tamil Nadu,Madurai,Tamilnadu State Pollution Control Board,"Residential, Rural and other Areas",4.7,40.2,NA,201
+309,April - M042000,Tamil Nadu,Salem,Tamilnadu State Pollution Control Board,"Residential, Rural and other Areas",3.9,12.9,NA,71
+159,May - M052000,Tamil Nadu,Madras,NA,"Residential, Rural and other Areas",6,8.2,NA,156
+160,May - M052000,Tamil Nadu,Madras,NA,"Residential, Rural and other Areas",7.5,12.2,NA,85
+161,May - M052000,Tamil Nadu,Madras,NA,Industrial Area,8.2,14.3,NA,97
+38,May - M052000,Tamil Nadu,Madras,Tamil Nadu Pollution Control Board,Industrial Area,20.8,18.1,NA,129
+71,May - M052000,Tamil Nadu,Madras,Tamil Nadu Pollution Control Board,Industrial Area,10.6,20.8,NA,186
+72,May - M052000,Tamil Nadu,Madras,Tamil Nadu Pollution Control Board,Industrial Area,21.4,15.4,NA,109
+206,May - M052000,Tamil Nadu,Tuticorin,Tamil Nadu Pollution Control Board,NA,20.7,27.6,NA,125
+237,May - M052000,Tamil Nadu,Coimbatore,Tamil Nadu Pollution Control Board,NA,3.6,38.7,NA,65
+238,May - M052000,Tamil Nadu,Coimbatore,Tamil Nadu Pollution Control Board,NA,2.9,37.2,NA,26
+239,May - M052000,Tamil Nadu,Tuticorin,Tamil Nadu Pollution Control Board,NA,29.3,32.8,NA,46
+240,May - M052000,Tamil Nadu,Tuticorin,Tamil Nadu Pollution Control Board,NA,32.7,28.5,NA,51
+260,May - M052000,Tamil Nadu,Coimbatore,Tamilnadu State Pollution Control Board,"Residential, Rural and other Areas",1.8,23.7,NA,30
+306,May - M052000,Tamil Nadu,Madurai,Tamilnadu State Pollution Control Board,"Residential, Rural and other Areas",5.8,33.4,NA,26
+307,May - M052000,Tamil Nadu,Madurai,Tamilnadu State Pollution Control Board,Industrial Area,4.5,21.6,NA,16
+308,May - M052000,Tamil Nadu,Madurai,Tamilnadu State Pollution Control Board,"Residential, Rural and other Areas",4.9,29.1,NA,24
+159,June - M062000,Tamil Nadu,Madras,NA,"Residential, Rural and other Areas",6.1,14.6,NA,102
+160,June - M062000,Tamil Nadu,Madras,NA,"Residential, Rural and other Areas",6.7,10.7,NA,75
+161,June - M062000,Tamil Nadu,Madras,NA,Industrial Area,7.8,16.5,NA,96
+71,June - M062000,Tamil Nadu,Madras,Tamil Nadu Pollution Control Board,Industrial Area,NA,NA,NA,74
+306,June - M062000,Tamil Nadu,Madurai,Tamilnadu State Pollution Control Board,"Residential, Rural and other Areas",3.5,23.9,NA,19
+307,June - M062000,Tamil Nadu,Madurai,Tamilnadu State Pollution Control Board,Industrial Area,3.1,21.4,NA,17
+308,June - M062000,Tamil Nadu,Madurai,Tamilnadu State Pollution Control Board,"Residential, Rural and other Areas",5,18,NA,15
+159,July - M072000,Tamil Nadu,Madras,NA,"Residential, Rural and other Areas",7,12.9,NA,97
+160,July - M072000,Tamil Nadu,Madras,NA,"Residential, Rural and other Areas",6.9,20.3,NA,151
+161,July - M072000,Tamil Nadu,Madras,NA,Industrial Area,19.7,20.8,NA,83
+159,August - M082000,Tamil Nadu,Madras,NA,"Residential, Rural and other Areas",7.4,13.4,NA,81
+160,August - M082000,Tamil Nadu,Madras,NA,"Residential, Rural and other Areas",7.6,20.4,NA,68
+161,August - M082000,Tamil Nadu,Madras,NA,Industrial Area,8.1,18.1,NA,62
+38,August - M082000,Tamil Nadu,Madras,Tamil Nadu Pollution Control Board,Industrial Area,13.6,15.4,NA,52
+71,August - M082000,Tamil Nadu,Madras,Tamil Nadu Pollution Control Board,Industrial Area,12.6,17.9,NA,47
+72,August - M082000,Tamil Nadu,Madras,Tamil Nadu Pollution Control Board,Industrial Area,11.3,12.1,NA,77
+159,September - M092000,Tamil Nadu,Madras,NA,"Residential, Rural and other Areas",8.9,18,NA,82
+160,September - M092000,Tamil Nadu,Madras,NA,"Residential, Rural and other Areas",10,20.7,NA,72
+161,September - M092000,Tamil Nadu,Madras,NA,Industrial Area,11.3,14.8,NA,84
+38,September - M092000,Tamil Nadu,Madras,Tamil Nadu Pollution Control Board,Industrial Area,29.3,24.1,NA,18
+71,September - M092000,Tamil Nadu,Madras,Tamil Nadu Pollution Control Board,Industrial Area,30.6,15.2,NA,18
+72,September - M092000,Tamil Nadu,Madras,Tamil Nadu Pollution Control Board,Industrial Area,10.9,30.3,NA,21
+206,September - M092000,Tamil Nadu,Tuticorin,Tamil Nadu Pollution Control Board,NA,26,33.6,NA,34
+239,September - M092000,Tamil Nadu,Tuticorin,Tamil Nadu Pollution Control Board,NA,14.2,33.8,NA,32
+240,September - M092000,Tamil Nadu,Tuticorin,Tamil Nadu Pollution Control Board,NA,18.1,35.9,NA,27
+159,October - M102000,Tamil Nadu,Madras,NA,"Residential, Rural and other Areas",8.9,22.8,NA,108
+160,October - M102000,Tamil Nadu,Madras,NA,"Residential, Rural and other Areas",9.8,18.2,NA,90
+161,October - M102000,Tamil Nadu,Madras,NA,Industrial Area,17.6,25.5,NA,176
+306,October - M102000,Tamil Nadu,Madurai,Tamilnadu State Pollution Control Board,"Residential, Rural and other Areas",6.9,24.7,NA,78
+307,October - M102000,Tamil Nadu,Madurai,Tamilnadu State Pollution Control Board,Industrial Area,4.4,22.5,NA,62
+308,October - M102000,Tamil Nadu,Madurai,Tamilnadu State Pollution Control Board,"Residential, Rural and other Areas",10.2,35.4,NA,285
+309,October - M102000,Tamil Nadu,Salem,Tamilnadu State Pollution Control Board,"Residential, Rural and other Areas",3.2,14.8,NA,82
+159,November - M112000,Tamil Nadu,Madras,NA,"Residential, Rural and other Areas",8,25.6,NA,159
+160,November - M112000,Tamil Nadu,Madras,NA,"Residential, Rural and other Areas",6.6,14.2,NA,68
+161,November - M112000,Tamil Nadu,Madras,NA,Industrial Area,12.4,22.3,NA,162
+38,November - M112000,Tamil Nadu,Madras,Tamil Nadu Pollution Control Board,Industrial Area,17.6,11.5,NA,71
+71,November - M112000,Tamil Nadu,Madras,Tamil Nadu Pollution Control Board,Industrial Area,19.6,15.8,NA,86
+72,November - M112000,Tamil Nadu,Madras,Tamil Nadu Pollution Control Board,Industrial Area,17.2,12.6,NA,90
+306,November - M112000,Tamil Nadu,Madurai,Tamilnadu State Pollution Control Board,"Residential, Rural and other Areas",9.1,16.2,NA,84
+307,November - M112000,Tamil Nadu,Madurai,Tamilnadu State Pollution Control Board,Industrial Area,5.9,17.7,NA,74
+308,November - M112000,Tamil Nadu,Madurai,Tamilnadu State Pollution Control Board,"Residential, Rural and other Areas",7.7,35.5,NA,286
+309,November - M112000,Tamil Nadu,Salem,Tamilnadu State Pollution Control Board,"Residential, Rural and other Areas",2.8,8.7,NA,83
+159,December - M122000,Tamil Nadu,Madras,NA,"Residential, Rural and other Areas",6.2,17.5,NA,129
+160,December - M122000,Tamil Nadu,Madras,NA,"Residential, Rural and other Areas",6.3,13.7,NA,158
+161,December - M122000,Tamil Nadu,Madras,NA,Industrial Area,7.4,16.8,NA,129
+38,December - M122000,Tamil Nadu,Madras,Tamil Nadu Pollution Control Board,Industrial Area,23.4,18.4,NA,82
+71,December - M122000,Tamil Nadu,Madras,Tamil Nadu Pollution Control Board,Industrial Area,22.5,20.8,NA,123
+72,December - M122000,Tamil Nadu,Madras,Tamil Nadu Pollution Control Board,Industrial Area,7.4,11,NA,103
+237,December - M122000,Tamil Nadu,Coimbatore,Tamil Nadu Pollution Control Board,NA,9.9,55.5,NA,95
+238,December - M122000,Tamil Nadu,Coimbatore,Tamil Nadu Pollution Control Board,NA,5.7,48.7,NA,50
+260,December - M122000,Tamil Nadu,Coimbatore,Tamilnadu State Pollution Control Board,"Residential, Rural and other Areas",3,38.3,NA,50
+306,December - M122000,Tamil Nadu,Madurai,Tamilnadu State Pollution Control Board,"Residential, Rural and other Areas",4.1,19.8,NA,106
+307,December - M122000,Tamil Nadu,Madurai,Tamilnadu State Pollution Control Board,Industrial Area,3.8,18.5,NA,88
+308,December - M122000,Tamil Nadu,Madurai,Tamilnadu State Pollution Control Board,"Residential, Rural and other Areas",7.2,66.8,NA,372
+309,December - M122000,Tamil Nadu,Salem,Tamilnadu State Pollution Control Board,"Residential, Rural and other Areas",3,10,NA,80

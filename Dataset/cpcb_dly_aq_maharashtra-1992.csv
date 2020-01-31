@@ -1,0 +1,53 @@
+Stn Code,Sampling Date,State,City/Town/Village/Area,Agency,Type of Location,SO2,NO2,RSPM/PM10,SPM
+170,January - M011992,Maharashtra,Bombay,NA,Industrial Area,66.6,67.8,NA,NA
+168,January - M011992,Maharashtra,Bombay,NA,"Residential, Rural and other Areas",45.6,49.8,NA,528
+169,January - M011992,Maharashtra,Bombay,NA,"Residential, Rural and other Areas",31.3,47.4,NA,437
+166,January - M011992,Maharashtra,Nagpur,NA,"Residential, Rural and other Areas",29.9,27.3,NA,329
+165,January - M011992,Maharashtra,Nagpur,NA,Industrial Area,23,15.5,NA,250
+167,January - M011992,Maharashtra,Nagpur,NA,"Residential, Rural and other Areas",8.7,11.5,NA,198
+94,January - M011992,Maharashtra,Nagpur,Maharashtra Pollution Control Board,"Residential, Rural and other Areas",12.7,19,NA,297
+133,January - M011992,Maharashtra,Nagpur,NA,Industrial Area,14,28.3,NA,232
+135,January - M011992,Maharashtra,Nagpur,NA,Industrial Area,10.9,21,NA,244
+134,January - M011992,Maharashtra,Nagpur,NA,"Residential, Rural and other Areas",15.7,20.9,NA,365
+136,January - M011992,Maharashtra,Nagpur,NA,Industrial Area,11.9,22.8,NA,307
+52,January - M011992,Maharashtra,Pune,Maharashtra Pollution Control Board,Industrial Area,23.9,53,NA,NA
+137,January - M011992,Maharashtra,Pune,NA,Industrial Area,20.3,38.9,NA,NA
+169,February - M021992,Maharashtra,Bombay,NA,"Residential, Rural and other Areas",16.1,41.6,NA,392
+170,February - M021992,Maharashtra,Bombay,NA,Industrial Area,21.9,50.4,NA,NA
+168,February - M021992,Maharashtra,Bombay,NA,"Residential, Rural and other Areas",10.5,34.8,NA,404
+165,February - M021992,Maharashtra,Nagpur,NA,Industrial Area,16.7,8.5,NA,270
+166,February - M021992,Maharashtra,Nagpur,NA,"Residential, Rural and other Areas",11.2,11.5,NA,389
+167,February - M021992,Maharashtra,Nagpur,NA,"Residential, Rural and other Areas",6.4,5,NA,169
+94,February - M021992,Maharashtra,Nagpur,Maharashtra Pollution Control Board,"Residential, Rural and other Areas",11.9,28.8,NA,380
+133,February - M021992,Maharashtra,Nagpur,NA,Industrial Area,10.7,32.1,NA,253
+135,February - M021992,Maharashtra,Nagpur,NA,Industrial Area,6.8,29.8,NA,368
+134,February - M021992,Maharashtra,Nagpur,NA,"Residential, Rural and other Areas",13.1,26.3,NA,303
+136,February - M021992,Maharashtra,Nagpur,NA,Industrial Area,9.6,29.4,NA,386
+213,February - M021992,Maharashtra,Chandarpur,Maharashtra Pollution Control Board,NA,14.8,45,NA,NA
+165,March - M031992,Maharashtra,Nagpur,NA,Industrial Area,17.7,8.8,NA,200
+166,March - M031992,Maharashtra,Nagpur,NA,"Residential, Rural and other Areas",11.4,17.5,NA,443
+167,March - M031992,Maharashtra,Nagpur,NA,"Residential, Rural and other Areas",12.9,6.1,NA,237
+169,March - M031992,Maharashtra,Bombay,NA,"Residential, Rural and other Areas",18.2,33.7,NA,349
+170,March - M031992,Maharashtra,Bombay,NA,Industrial Area,28.5,40.1,NA,NA
+168,March - M031992,Maharashtra,Bombay,NA,"Residential, Rural and other Areas",10,35.6,NA,509
+94,March - M031992,Maharashtra,Nagpur,Maharashtra Pollution Control Board,"Residential, Rural and other Areas",10.7,27.6,NA,309
+133,March - M031992,Maharashtra,Nagpur,NA,Industrial Area,8.9,21.1,NA,217
+136,March - M031992,Maharashtra,Nagpur,NA,Industrial Area,11.2,22.9,NA,NA
+213,March - M031992,Maharashtra,Chandarpur,Maharashtra Pollution Control Board,NA,13.6,28.3,NA,NA
+165,April - M041992,Maharashtra,Nagpur,NA,Industrial Area,10.1,9.2,NA,182
+166,April - M041992,Maharashtra,Nagpur,NA,"Residential, Rural and other Areas",11.7,8.9,NA,307
+167,April - M041992,Maharashtra,Nagpur,NA,"Residential, Rural and other Areas",6,10.1,NA,179
+169,April - M041992,Maharashtra,Bombay,NA,"Residential, Rural and other Areas",7.1,30.4,NA,382
+168,April - M041992,Maharashtra,Bombay,NA,"Residential, Rural and other Areas",9.8,36.2,NA,467
+170,April - M041992,Maharashtra,Bombay,NA,Industrial Area,16.6,25.2,NA,NA
+213,April - M041992,Maharashtra,Chandarpur,Maharashtra Pollution Control Board,NA,17.9,41.6,NA,NA
+214,April - M041992,Maharashtra,Chandarpur,Maharashtra Pollution Control Board,NA,12.5,38.4,NA,NA
+167,May - M051992,Maharashtra,Nagpur,NA,"Residential, Rural and other Areas",6,8,NA,173
+166,May - M051992,Maharashtra,Nagpur,NA,"Residential, Rural and other Areas",6,8.4,NA,316
+165,May - M051992,Maharashtra,Nagpur,NA,Industrial Area,7.3,6.4,NA,179
+169,May - M051992,Maharashtra,Bombay,NA,"Residential, Rural and other Areas",6.2,24.8,NA,NA
+170,May - M051992,Maharashtra,Bombay,NA,Industrial Area,8,23.1,NA,NA
+168,May - M051992,Maharashtra,Bombay,NA,"Residential, Rural and other Areas",6.5,17.6,NA,NA
+169,June - M061992,Maharashtra,Bombay,NA,"Residential, Rural and other Areas",6,12.5,NA,261
+170,June - M061992,Maharashtra,Bombay,NA,Industrial Area,16.2,9.8,NA,NA
+168,June - M061992,Maharashtra,Bombay,NA,"Residential, Rural and other Areas",6,6.9,NA,306
